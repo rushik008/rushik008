@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rushik Rathod</h1>
+<h1 align="center">Hi, I'm Rushik Rathod</h1>
 <h3 align="center">React Native Developer</h3>
 
 
