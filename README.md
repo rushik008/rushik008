@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushik008&label=Profile%20views&color=0e75b6&style=flat" alt="rushik008" /> </p>
 
 
-- 🌱 I’m currently learning **flutter framework.**
+- 🌱 I’m currently learning **flutter.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rushik008](https://github.com/rushik008)
 
