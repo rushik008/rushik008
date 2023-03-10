@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushik Rathod</h1>
-<h3 align="center">React Native Developer</h3>
+<h3 align="center">Flutter Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushik008&label=Profile%20views&color=0e75b6&style=flat" alt="rushik008" /> </p>
 
